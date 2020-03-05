@@ -2,7 +2,7 @@
 
 namespace App\Http\Requests;
 
-use App\Http\Strategies\Entities\EncodingConfigurationEntity;
+use App\Strategies\Entities\EncodingConfigurationEntity;
 use Illuminate\Foundation\Http\FormRequest;
 
 class EncodingRequest extends FormRequest

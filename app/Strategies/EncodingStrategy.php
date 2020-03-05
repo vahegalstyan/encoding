@@ -1,12 +1,12 @@
 <?php
 
 
-namespace App\Http\Strategies;
+namespace App\Strategies;
 
 
 use App\Http\Requests\EncodingRequest;
-use App\Http\Strategies\Entities\EncodingConfigurationEntity;
-use App\Http\Strategies\Interfaces\EncodingStrategyInterface;
+use App\Strategies\Entities\EncodingConfigurationEntity;
+use App\Strategies\Interfaces\EncodingStrategyInterface;
 
 
 class EncodingStrategy

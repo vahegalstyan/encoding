@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Requests\EncodingRequest;
-use App\Http\Strategies\EncodingStrategy;
+use App\Strategies\EncodingStrategy;
 use Illuminate\Http\Request;
 
 class EncodingController extends Controller

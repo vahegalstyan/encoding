@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Http\Strategies\Entities;
+namespace App\Strategies\Entities;
 
 
 class EncodingConfigurationEntity

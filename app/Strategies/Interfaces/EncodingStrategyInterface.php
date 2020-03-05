@@ -1,10 +1,10 @@
 <?php
 
 
-namespace App\Http\Strategies\Interfaces;
+namespace App\Strategies\Interfaces;
 
 
-use App\Http\Strategies\Entities\EncodingConfigurationEntity;
+use App\Strategies\Entities\EncodingConfigurationEntity;
 
 interface EncodingStrategyInterface
 {
